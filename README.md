@@ -1,6 +1,6 @@
 # Canzade-Aquality-Systems
 
-Sistemlerin asıl ve ilk fikir sahibi olan Aquality kurucu ve botçusu AreBy'a sistemlerini replika olarak yapıp paylaşmama izin verdiği için teşekkür ederim.
+Sistemlerin asıl ve ilk fikir sahibi olan Aquality kurucu ve botçusu AreBy'a ([Areby](https://github.com/0xAreBy)) sistemlerini replika olarak yapıp paylaşmama izin verdiği için teşekkür ederim.
 Bot şuan yapım aşamasındadır en kısa sürede tamamlanıp tüm haliyle paylaşılacaktır.
 # BOTA DAİR GÖRÜNTÜLER
 
