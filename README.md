@@ -5,7 +5,7 @@ Bot şuan yapım aşamasındadır en kısa sürede tamamlanıp tüm haliyle payl
 # BOTA DAİR GÖRÜNTÜLER
 
 ![image](https://user-images.githubusercontent.com/77938499/184345051-f65c7291-8f1b-4a2d-a5c9-2cd022a7fb7b.png)
-![image](https://user-images.githubusercontent.com/77938499/184345173-16e5a473-d720-486d-9ce6-5d981f346b5f.png)
+![image](https://user-images.githubusercontent.com/77938499/184353463-59303c61-4f88-49fb-9a8d-7292fb09592e.png)
 ![image](https://user-images.githubusercontent.com/77938499/184345233-dd855a95-df34-4da6-874f-35fbec7ed180.png)
 ![image](https://user-images.githubusercontent.com/77938499/184345298-973ec70d-0d96-4337-8e21-0213843f62a6.png)
 ![image](https://user-images.githubusercontent.com/77938499/184345362-f688c823-0a10-4a6d-8603-84a59375a7ef.png)
